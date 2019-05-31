@@ -1,0 +1,9 @@
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER\obj\Debug\CRUDS-EXER.csprojAssemblyReference.cache
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER\obj\Debug\CRUDS_EXER.Properties.Resources.resources
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER\obj\Debug\CRUDS-EXER.csproj.GenerateResource.cache
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER\obj\Debug\CRUDS-EXER.csproj.CoreCompileInputs.cache
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER\bin\Debug\CRUDS-EXER.exe.config
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER\bin\Debug\CRUDS-EXER.exe
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER\bin\Debug\CRUDS-EXER.pdb
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER\obj\Debug\CRUDS-EXER.exe
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER\obj\Debug\CRUDS-EXER.pdb

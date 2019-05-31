@@ -1,0 +1,12 @@
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER.Domain\bin\Debug\CRUDS-EXER.Domain.exe.config
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER.Domain\bin\Debug\CRUDS-EXER.Domain.exe
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER.Domain\bin\Debug\CRUDS-EXER.Domain.pdb
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER.Domain\obj\Debug\CRUDS-EXER.Domain.csprojAssemblyReference.cache
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER.Domain\obj\Debug\CRUDS_EXER.Domain.Properties.Resources.resources
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER.Domain\obj\Debug\CRUDS-EXER.Domain.csproj.GenerateResource.cache
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER.Domain\obj\Debug\CRUDS-EXER.Domain.csproj.CoreCompileInputs.cache
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER.Domain\obj\Debug\CRUDS-EXER.Domain.exe
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER.Domain\obj\Debug\CRUDS-EXER.Domain.pdb
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER.Domain\bin\Debug\Dapper.dll
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER.Domain\bin\Debug\Dapper.xml
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER.Domain\obj\Debug\CRUDS-EXER.Domain.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER.DataAccess\bin\Debug\CRUDS-EXER.DataAccess.exe.config
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER.DataAccess\bin\Debug\CRUDS-EXER.DataAccess.exe
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER.DataAccess\bin\Debug\CRUDS-EXER.DataAccess.pdb
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER.DataAccess\obj\Debug\CRUDS-EXER.DataAccess.csprojAssemblyReference.cache
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER.DataAccess\obj\Debug\CRUDS_EXER.DataAccess.Properties.Resources.resources
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER.DataAccess\obj\Debug\CRUDS-EXER.DataAccess.csproj.GenerateResource.cache
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER.DataAccess\obj\Debug\CRUDS-EXER.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER.DataAccess\obj\Debug\CRUDS-EXER.DataAccess.exe
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER.DataAccess\obj\Debug\CRUDS-EXER.DataAccess.pdb
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER.DataAccess\bin\Debug\CRUDS-EXER.Domain.exe
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER.DataAccess\bin\Debug\Dapper.dll
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER.DataAccess\bin\Debug\CRUDS-EXER.Domain.pdb
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER.DataAccess\bin\Debug\CRUDS-EXER.Domain.exe.config
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER.DataAccess\bin\Debug\Dapper.xml
+C:\Users\decipher\source\repos\CRUDS-EXER\CRUDS-EXER.DataAccess\obj\Debug\CRUDS-EXER.DataAccess.csproj.CopyComplete
